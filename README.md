@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# vuex-todo-manager
-=======
 # vuex-todo-manager app
 
 ## Project setup
@@ -25,4 +22,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
->>>>>>> 4b1ceec27247c990bca7a53abded080b3cea9e7d
+
